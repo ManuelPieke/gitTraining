@@ -24,18 +24,18 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/fitness-trainer-training-schedule.git
+   git clone https://github.com/ManuelPieke/gitTraining.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd fitness-trainer-training-schedule
+   cd gitTraining
    ```
 
 3. **Explore the Files**
 
-   Review the content in the `/docs`, `/schedules`, and `/images` directories to understand the structure and examples provided.
+   Review the content in the directories to understand the structure and examples provided.
 
 4. **Learn Git Basics**
 
@@ -50,14 +50,6 @@ To get started with this project, follow these steps:
    - `git rebase`
 
    Refer to the [Git documentation](https://git-scm.com/doc) for more details.
-
-## Examples
-
-Here are some examples of the training schedules included in this project:
-
-- **Weekly Training Plan** (`schedules/weekly_training_plan.md`): A detailed schedule outlining the workouts for each day of the week.
-- **Strength Training Routine** (`schedules/strength_training.csv`): A CSV file format of a strength training routine.
-- **Cardio Workouts** (`schedules/cardio_workouts.md`): A Markdown file with various cardio workout plans.
 
 ## Contributing
 
