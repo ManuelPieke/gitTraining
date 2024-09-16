@@ -1,6 +1,3 @@
-Of course! Here's the `README.md` content formatted within a code block:
-
-```markdown
 # Fitness Trainer Training Schedule
 
 Welcome to the Fitness Trainer Training Schedule project! This repository is designed for Git training purposes, and it provides an example of a training schedule used by fitness trainers to plan and manage workouts for their clients.
@@ -77,6 +74,3 @@ For any questions or feedback, please contact the project maintainer at [your.em
 ---
 
 Happy Git training!
-```
-
-You can copy and paste this directly into your `README.md` file. Let me know if you need any further adjustments!
