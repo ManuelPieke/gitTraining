@@ -1,4 +1,4 @@
-# Fitness Trainer Training Schedule
+# Fitness Training Plans
 
 Welcome to the Fitness Trainer Training Schedule project! This repository is designed for Git training purposes, and it provides an example of a training schedule used by fitness trainers to plan and manage workouts for their clients.
 
